@@ -1,4 +1,3 @@
-import numpy as np
 
 soma = 0
 cont = 0
